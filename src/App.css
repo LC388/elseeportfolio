@@ -1,3 +1,8 @@
+body{
+background-color: #A8BFAA;
+}
+
+
 .landing{
   display: flex;
   justify-content: center;
@@ -45,4 +50,29 @@
 75% {
   background-position: right top;
 }
+}
+
+
+/* font-family: 'Noto Sans Mono', monospace; */
+.navbar{
+  display: flex;
+  height: 64px;
+  font-family: 'Noto Sans Mono', monospace;
+  justify-content: space-between;
+  padding: 0 20px;
+  background-color: #A8BFAA;
+  color: #0d0d0d;
+  box-shadow: 0 6px 6px -2px rgba(0,0,0,.2);
+}
+
+.navbar--menu{
+  height: 100%;
+width: 30%;
+display: flex;
+list-style: none;
+font-weight: 700;
+font-size: large;
+align-self: center;
+align-items: center;;
+justify-content: space-around;
 }
