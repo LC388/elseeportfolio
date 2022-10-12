@@ -3,6 +3,7 @@ import React from 'react'
 function home() {
   return (
     <div className='home--container'>
+    <div className='home--content'>
     <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Odit earum deleniti vero dignissimos, ratione suscipit, ipsam accusamus ut vitae reiciendis quis nostrum magnam? Ullam quos mollitia ipsam voluptatem, maxime earum.</p>
   <p>Perferendis sint culpa quasi, enim vitae fugiat libero possimus harum dolore ab qui odio rerum fugit obcaecati cumque recusandae ad officia veritatis est quo praesentium adipisci ipsam molestias. Molestias, provident!</p>
   <p>Atque fugit, reprehenderit iure sit aperiam quibusdam fuga nulla officiis ratione quia inventore animi et cupiditate pariatur eum. Necessitatibus, recusandae ipsum voluptatem dignissimos sint explicabo molestias vero corporis consectetur quod!</p>
@@ -23,7 +24,7 @@ function home() {
   <p>Sequi suscipit dicta quisquam, enim odio nobis est ad adipisci, ipsum voluptates magni architecto assumenda optio aperiam harum rerum libero! Dolorum, repellat reiciendis enim tenetur doloremque at ullam odit sunt.</p>
   <p>Blanditiis necessitatibus, inventore iusto minus ad error ex mollitia sed exercitationem tempora esse quos corporis quod. Maxime blanditiis ipsum saepe culpa veritatis tempore laboriosam laudantium impedit qui? Iure, quia quaerat?</p>
   <p>Repellat, modi similique iste natus corporis veritatis id, dignissimos dolores excepturi culpa quam nulla dicta delectus quidem? Quo reiciendis repellendus adipisci necessitatibus quae id eveniet cum blanditiis deserunt beatae? Aliquid.</p>
-
+</div>
 </div>
   )
 }
