@@ -1,4 +1,5 @@
 import React from 'react'
+import Footer from './Footer'
 
 function home() {
   return (
@@ -25,6 +26,7 @@ function home() {
   <p>Blanditiis necessitatibus, inventore iusto minus ad error ex mollitia sed exercitationem tempora esse quos corporis quod. Maxime blanditiis ipsum saepe culpa veritatis tempore laboriosam laudantium impedit qui? Iure, quia quaerat?</p>
   <p>Repellat, modi similique iste natus corporis veritatis id, dignissimos dolores excepturi culpa quam nulla dicta delectus quidem? Quo reiciendis repellendus adipisci necessitatibus quae id eveniet cum blanditiis deserunt beatae? Aliquid.</p>
 </div>
+
 </div>
   )
 }
