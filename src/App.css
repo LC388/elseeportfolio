@@ -164,6 +164,8 @@ justify-content: space-around;
 
 /* ---------- Card ---------- */
 .card--container{
+  font-family: 'Noto Sans Mono', monospace;
+  margin: 20px;
   background-color: #f2f2f2;
   width: 425px;
   overflow: hidden;
@@ -179,3 +181,6 @@ justify-content: space-around;
 margin: 1rem;
 margin-top: 0.5rem;
 }
+
+.card--description{
+  overflow: 'hidden';}
